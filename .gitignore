@@ -1,3 +1,4 @@
 .zshrc
 test.sml
 */amd64-unix/*
+*.cm*

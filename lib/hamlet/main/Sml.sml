@@ -212,7 +212,7 @@ struct
           initialArg'
         )
       | SOME path =>
-        ( TextIO.output(TextIO.stdErr, "[loading standard basis library]\n");
+        ( TextIO.output(TextIO.stdErr, path ^ " [loading standard basis library]\n");
           TextIO.flushOut TextIO.stdErr;
           fromFileQuiet (exec' false, initialArg', false)
             (OS.Path.joinDirFile{dir = path, file = basisFile})
