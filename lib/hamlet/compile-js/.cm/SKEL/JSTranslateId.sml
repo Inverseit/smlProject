@@ -1,0 +1,2 @@
+Skeleton 5
+d2f5Cd"LongStrId"ä¢JSSyntax"d"Char"d"StrId"d"LongVId"Cd"FunId"d"Lab"d"SyntaxModule"d"SyntaxCore"d"CharVector"Cd"List"d"Int"d"String"d"Annotation"d"VId"Nad"JSTranslateId"jh1ad"JS"gp1ÿgp1c"JS_TRANSLATE_ID"

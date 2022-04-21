@@ -1,0 +1,2 @@
+Skeleton 5
+ad"StaticLibrary"jh5Cegp1d"StaticObjectsCore"egp1d"StaticObjectsModule"egp1‰¢InitialStaticEnv"egp1d"IdsLibrary"f7d"TypeFcn"d"Lab"Cd"StaticBasis"d"StrIdMap"d"TyVar"ˇÅd"TyConMap"Cd"TyName"d"OverloadingClass"d"SigIdMap"d"Type"d"TyCon"Cd"LibrarySVal"d"TyNameSet"d"FunIdMap"d"VIdMap"d"InitialStaticBasis"NNgp1c"STATIC_LIBRARY"

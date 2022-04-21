@@ -1,0 +1,2 @@
+Skeleton 5
+ad"Type"jh2egp1d"StaticObjectsCore"f9d"ListPair"d"StampMap"d"Lab"d"Stamp"Cd"TyVar"d"LabMap"d"List"d"TyVarMap"d"TyName"Cd"OverloadingClass"d"Option"d"TyVarSet"d"TyNameMap"d"TyNameSet"Ngp1c"TYPE"

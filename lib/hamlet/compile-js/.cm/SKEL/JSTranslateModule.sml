@@ -1,0 +1,2 @@
+Skeleton 5
+d2f7d"IdSetModule"ä¢JSSyntax"Cd"StaticEnv"d"JSTranslateCore"ä¢SyntaxModule"d"JSTranslateId"d"StrIdSet"Cd"StaticObjectsModule"d"List"d"Annotation"d"FunIdMap"d"FunIdSet"Nad"JSTranslateModule"jh3ad"ML"gp1ÿ<ad"A"gp1d"AnnotationModule"ad"JS"gp1ÿgp1c"JS_TRANSLATE_MODULE"
